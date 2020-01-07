@@ -1,5 +1,11 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: Li Guangyao
+description: Break the fukcing world.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+author: lgy
+
+About: /index.html
+
+Github:
+    homepage: https://github.com/lgggy
