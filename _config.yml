@@ -5,7 +5,9 @@ google_analytics:
 theme: jekyll-theme-hacker
 author: lgy
 
-About: /index.html
+about: /index.html
 
-Github:
+blog: /blog.html
+
+github:
     homepage: https://github.com/lgggy
