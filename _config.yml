@@ -5,6 +5,8 @@ google_analytics:
 theme: jekyll-theme-hacker
 author: Li-Guangyao
 
+about: /index.html
+
 blog: /blog.html
 
 github:
