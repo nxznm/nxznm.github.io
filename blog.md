@@ -8,7 +8,8 @@ layout: default
 * [ROTATE: KNOWLEDGE GRAPH EMBEDDING BY RELATIONAL ROTATION IN COMPLEX SPACE](./blog/2020-01-24.html)[ICLR'2019]
 ### KG Embedding with Rules
 * Jointly Embedding Knowledge Graphs and Logical Rules[EMNLP'2016]
-It represents and models triples and rules in a unified framework. Triples are represented as atomic formulae which modeled by the translation assumption, which rules as complex formulae which modeled by the t-norm fuzzy logics.
+
+  It represents and models triples and rules in a unified framework. Triples are represented as atomic formulae which modeled by the translation assumption, which rules as complex formulae which modeled by the t-norm fuzzy logics.
 ## Graph Representation Learning
 * [GraphGAN: Graph Representation Learning with Generative Adversarial Nets](./blog/2020-01-29.html)(AAAI'2018)
 # Recommender Systems
