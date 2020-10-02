@@ -18,4 +18,4 @@ Knowledge Graph.
 # Awards & Hornors
 
 * Sun Zhongxiu Scholarship, 2017.
-* First Prize, Peoples' Scholarship, 2017/2018/2019.
+* First Prize, People's Scholarship, 2017/2018/2019.
