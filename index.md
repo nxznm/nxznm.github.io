@@ -13,7 +13,7 @@ Knowledge Graph.
 
 # Publications
 
-* Rule-Guided Graph Neural Networks for Recommender Systems. International Semantic Web Conference (ISWC'20), Athens, Greece, 2020. [[Paper](https://arxiv.org/abs/2009.04104)]
+* Xinze Lyu, Guangyao Li, Jiacheng Huang, Wei Hu. Rule-Guided Graph Neural Networks for Recommender Systems. International Semantic Web Conference (ISWC'20), Athens, Greece, 2020. [[Paper](https://arxiv.org/abs/2009.04104)]
 
 # Awards & Hornors
 
